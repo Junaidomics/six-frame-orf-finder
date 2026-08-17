@@ -78,8 +78,8 @@ orf-finder/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/Junaidomics/six-frame-orf-finder.git
+cd six-frame-orf-finder
 ```
 
 ### 2. Install the required package
